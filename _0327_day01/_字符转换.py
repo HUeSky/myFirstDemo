@@ -1,0 +1,8 @@
+print('输入第一个数字')
+num1 = input()
+num1 = int(num1)
+print('输入第二个数字')
+num2 = input()
+num2 = int(num2)
+print('num1+num2=%d' % (num1 + num2))
+print(num1)
